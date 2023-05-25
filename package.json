@@ -1,0 +1,26 @@
+{
+  "name": "usenotionapi",
+  "version": "1.0.0",
+  "description": "More on this on completion of the code.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iambstha/useNotionApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iambstha/useNotionApi/issues"
+  },
+  "homepage": "https://github.com/iambstha/useNotionApi#readme",
+  "dependencies": {
+    "@notionhq/client": "^1.0.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
